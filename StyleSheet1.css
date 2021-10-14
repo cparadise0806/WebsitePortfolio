@@ -1,0 +1,59 @@
+body {
+    background-color: #DEEEEA;
+}
+
+
+.header {
+    background-image: url("images/colorpowder4.png"); 
+    background-color: #1F4068;
+    margin: 0;
+    padding: 100px 0;
+    text-align: center;
+}
+
+
+.middle {
+    background-color: #DEEEEA;
+}
+
+.container{
+    text-align:center;
+    padding: 50px 0;
+}
+
+.bottom {
+    background-image: url("images/colorpowder3.png");
+    background-color: #1F4068;
+    height: 400px;
+}
+
+h1 {
+    color: #232931;
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+
+h3{
+    text-align:center;
+}
+
+.navbar {
+    background-color: #1F4068;
+}
+
+/*Projects page*/
+.projectspage {
+    background-image: url("images/colorpowder3.png");
+}
+
+
+/*Skills page*/
+.skillsheader {
+    margin: 20%;
+}
+
+.skillspage {
+    background-image: url("images/colorpowder3.png");
+}
