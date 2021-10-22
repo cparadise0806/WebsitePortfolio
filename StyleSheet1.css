@@ -46,6 +46,8 @@ h3{
 /*Projects page*/
 .projectspage {
     background-image: url("images/colorpowder3.png");
+    padding-top: 75px;
+    margin: 0 25px;
 }
 
 
